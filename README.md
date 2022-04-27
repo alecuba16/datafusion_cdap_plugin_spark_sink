@@ -1,4 +1,4 @@
-# datafusion_cdap_plugin_spark_sink
+# datafusion_cdap_spark_sink_plugin
 Complete example project to create a custom Google cloud datafusion (CDAP) spark sink plugin. Sourced and adapted from the documentation where there is no quickstart project.
 
 ## Spark Sink Plugin
